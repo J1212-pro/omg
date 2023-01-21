@@ -1159,6 +1159,10 @@ body {
   .header .btn::after { background-color: var(--raisin-black-1); }
 
   .header .btn:is(:hover, :focus) { color: var(--white); }
+  
+  .logo{
+    font-family: Algerian;
+  }
 
 
 
@@ -1327,6 +1331,11 @@ body {
   .header .container { padding-inline: 30px; }
 
   .navbar-list { gap: 50px; }
+  
+  .logo{
+    font-family: Algerian;
+  }
+
 
 
 
